@@ -4,6 +4,8 @@
  *     int val;
  *     struct ListNode *next;
  * };
+ * Runtime: 0 ms, faster than 100.00% of C online submissions for Remove Nth Node From End of List.
+ * Memory Usage: 7.3 MB, less than 9.09% of C online submissions for Remove Nth Node From End of List.
  */
 
 
